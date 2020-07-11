@@ -1,4 +1,4 @@
-![LOGO](img.png)
+![LOGO](https://raw.githubusercontent.com/LeeluPradhan/LeeluPradhan/master/img.png)
 
 Ask real questions!
 Contact me on telegram @AlphaFolker
